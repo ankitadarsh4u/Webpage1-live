@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+header{
+    width: 100%;
+    height:100px;
+    background-color: rgb(171, 14, 14);
+    color: #fff;
+    padding-left: 10px;
+    
+}
+header h1{
+    padding-top: 20px;
+    
+}
+section{
+    width: 100%;
+}
+section main{
+    width: 85%;
+    float: right;
+    text-align: justify;
+    padding-left: 10px;
+   
+}
+section main h3{
+    margin-top: 20px;
+    color: rgb(71, 71, 197);
+    font-size: large;
+}
+section main p{
+    padding-top: 10px;
+}
+section aside{
+    width: 15%;
+    float: left;
+    padding-left: 20px;
+    color: #fff;
+    background-color: rgb(17, 203, 17);
+}
+footer{
+    background-color: rgb(165, 30, 30);
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+}
+aside h3{
+    margin: 20px 0px;
+}
+aside ul li{
+    margin-top: 13px;
+    border-bottom: 2px solid #fff;
+}
